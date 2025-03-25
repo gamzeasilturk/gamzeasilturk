@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Gamze and I'm a Game Developer from Türkiye</h2>
+<h1 align="center">🎮 Gamze Asiltürk</h1>
+<h3 align="center">✨ Passionate Game Developer from Türkiye | 🕹 Unity</h3>
 
 ###
 
